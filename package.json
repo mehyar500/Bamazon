@@ -1,0 +1,30 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Store front with MySQL",
+  "main": "bamazon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehyar500/Bamazon.git"
+  },
+  "keywords": [
+    "bamazon",
+    "amazon",
+    "ebay",
+    "buy",
+    "sell"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehyar500/Bamazon/issues"
+  },
+  "homepage": "https://github.com/mehyar500/Bamazon#readme",
+  "dependencies": {
+    "inquirer": "^3.2.2",
+    "mysql": "^2.14.1"
+  }
+}
